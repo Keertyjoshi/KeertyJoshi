@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keertyjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="keertyjoshi" /> </p>
 
-- 🌱 I’m currently learning **Java,Html,Css**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **Keerty.joshi2003@gmail.com**
 
